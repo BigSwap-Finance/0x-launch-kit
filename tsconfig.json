@@ -3,7 +3,7 @@
         "target": "es5",
         "lib": ["es2018", "esnext"],
         "module": "commonjs",
-        "outDir": "dist",
+        "outDir": "lib",
         "strict": true,
         "noUnusedLocals": true,
         "noUnusedParameters": true,
